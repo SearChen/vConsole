@@ -77,18 +77,6 @@ Plugin:
 - [v2.5.2](https://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/vconsole/2.5.2/vconsole.min.js)
 
 
-## Changelog
-
-[CHANGELOG.md](./CHANGELOG.md)
-
-
-## Feedback
-
-QQ Group: 497430533
-
-![](./example/snapshot/qq_group.png)
-
-
 ## License
 
 [The MIT License](./LICENSE)
